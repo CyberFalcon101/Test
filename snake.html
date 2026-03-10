@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Credits to Get Coding! -->
 <html>
 <head>
   <title>Snake</title>
@@ -118,7 +119,7 @@
           var currentXoffset = 0;
           line.forEach(function checkCharacter(character) {
             if(character == '#') {
-              ctx.fillStyle = "black";
+              ctx.fillStyle = "brown";
               ctx.fillRect(currentXoffset, currentYoffset, graphics.squareSize, graphics.squareSize);
             }
             currentXoffset += graphics.squareSize;
@@ -138,8 +139,8 @@
         var ctx = graphics.canvas.getContext("2d");
         ctx.clearRect(0, 0, graphics.canvas.width, graphics.canvas.height);
         graphics.drawBoard(ctx);
-        graphics.draw(ctx, game.fruit, "coral");
-        graphics.draw(ctx, snake.parts, "blue");
+        graphics.draw(ctx, game.fruit, "red");
+        graphics.draw(ctx, snake.parts, "green");
       }
     };
     var gameControl = {
