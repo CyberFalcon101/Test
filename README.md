@@ -25,6 +25,13 @@ Just a curious mind.
 
 Go ahead, and have fun! 
 
+## Task 1 - Encodings
+Things
+## Task 2 - Ciphers
+Stuff
+## Task 3 - Hashes
+sth
+
 Do put this in grey box `Just do this`
 ```
 OR THISSSSSSSSSSSSSSSSS
