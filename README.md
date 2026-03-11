@@ -1,4 +1,4 @@
-# TryCrackMe Level 1
+# TryCrackMe Level 1 Write-Up
 Welcome! This is an official write-up for the CTF
 [TryCrackMe Level 1](https://tryhackme.com/room/trycrackmelevel1), made by the room's creator 
 [CyberFalcon101](https://tryhackme.com/p/CyberFalcon101). 
